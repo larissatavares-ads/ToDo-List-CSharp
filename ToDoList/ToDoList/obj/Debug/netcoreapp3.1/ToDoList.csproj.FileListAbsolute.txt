@@ -1,0 +1,14 @@
+C:\Users\lari_\Documents\Larissa\ToDo_List_Desenv\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\ToDoList.exe
+C:\Users\lari_\Documents\Larissa\ToDo_List_Desenv\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\ToDoList.deps.json
+C:\Users\lari_\Documents\Larissa\ToDo_List_Desenv\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\ToDoList.runtimeconfig.json
+C:\Users\lari_\Documents\Larissa\ToDo_List_Desenv\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\ToDoList.runtimeconfig.dev.json
+C:\Users\lari_\Documents\Larissa\ToDo_List_Desenv\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\ToDoList.dll
+C:\Users\lari_\Documents\Larissa\ToDo_List_Desenv\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\ToDoList.pdb
+C:\Users\lari_\Documents\Larissa\ToDo_List_Desenv\ToDoList\ToDoList\obj\Debug\netcoreapp3.1\ToDoList.csproj.AssemblyReference.cache
+C:\Users\lari_\Documents\Larissa\ToDo_List_Desenv\ToDoList\ToDoList\obj\Debug\netcoreapp3.1\ToDoList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lari_\Documents\Larissa\ToDo_List_Desenv\ToDoList\ToDoList\obj\Debug\netcoreapp3.1\ToDoList.AssemblyInfoInputs.cache
+C:\Users\lari_\Documents\Larissa\ToDo_List_Desenv\ToDoList\ToDoList\obj\Debug\netcoreapp3.1\ToDoList.AssemblyInfo.cs
+C:\Users\lari_\Documents\Larissa\ToDo_List_Desenv\ToDoList\ToDoList\obj\Debug\netcoreapp3.1\ToDoList.csproj.CoreCompileInputs.cache
+C:\Users\lari_\Documents\Larissa\ToDo_List_Desenv\ToDoList\ToDoList\obj\Debug\netcoreapp3.1\ToDoList.dll
+C:\Users\lari_\Documents\Larissa\ToDo_List_Desenv\ToDoList\ToDoList\obj\Debug\netcoreapp3.1\ToDoList.pdb
+C:\Users\lari_\Documents\Larissa\ToDo_List_Desenv\ToDoList\ToDoList\obj\Debug\netcoreapp3.1\ToDoList.genruntimeconfig.cache

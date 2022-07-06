@@ -1,0 +1,37 @@
+Enquanto minha resposta para criar uma lista for verdadeira o laço de repetição enquanto estará ativo.
+
+
+boleano resposta = verdadeira;
+
+enquanto (resposta = verdadeira) {
+
+escreva("Você gostaria de adicionar mais um item? ")
+leia(r)
+se (r == "S"){
+resposta == true;
+}
+
+}
+
+
+metodo publico concluirtarefa() {
+escreva("Qual tarefa concluir?")
+leia(tarefaConcluida)
+
+criar lista
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
