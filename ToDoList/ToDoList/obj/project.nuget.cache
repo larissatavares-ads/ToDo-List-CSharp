@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "djcsOP7ZSfkn4qIkel8Mo/dn6iL9WSxpM0Pb54ft2vGJuQryeOyRRscy1oSBP6bI5iUpO3tROUKgCJuryUXs0g==",
+  "dgSpecHash": "e6671CD7iAxtOsBUXx5hKBSYNvbbdMLeoOOeS9uWBnsDzWME9ElbTcgNS67FHDNliL9UURtsGFr5JeXdT7l0Zw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\lari_\\Documents\\Larissa\\ToDo_List_Desenv\\ToDoList\\ToDoList\\ToDoList.csproj",
+  "projectFilePath": "C:\\GitHub\\ToDo-List-CSharp\\ToDoList\\ToDoList\\ToDoList.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

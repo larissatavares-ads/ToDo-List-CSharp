@@ -12,3 +12,17 @@ C:\Users\lari_\Documents\Larissa\ToDo_List_Desenv\ToDoList\ToDoList\obj\Debug\ne
 C:\Users\lari_\Documents\Larissa\ToDo_List_Desenv\ToDoList\ToDoList\obj\Debug\netcoreapp3.1\ToDoList.dll
 C:\Users\lari_\Documents\Larissa\ToDo_List_Desenv\ToDoList\ToDoList\obj\Debug\netcoreapp3.1\ToDoList.pdb
 C:\Users\lari_\Documents\Larissa\ToDo_List_Desenv\ToDoList\ToDoList\obj\Debug\netcoreapp3.1\ToDoList.genruntimeconfig.cache
+C:\GitHub\ToDo-List-CSharp\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\ToDoList.exe
+C:\GitHub\ToDo-List-CSharp\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\ToDoList.deps.json
+C:\GitHub\ToDo-List-CSharp\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\ToDoList.runtimeconfig.json
+C:\GitHub\ToDo-List-CSharp\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\ToDoList.runtimeconfig.dev.json
+C:\GitHub\ToDo-List-CSharp\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\ToDoList.dll
+C:\GitHub\ToDo-List-CSharp\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\ToDoList.pdb
+C:\GitHub\ToDo-List-CSharp\ToDoList\ToDoList\obj\Debug\netcoreapp3.1\ToDoList.csproj.AssemblyReference.cache
+C:\GitHub\ToDo-List-CSharp\ToDoList\ToDoList\obj\Debug\netcoreapp3.1\ToDoList.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\ToDo-List-CSharp\ToDoList\ToDoList\obj\Debug\netcoreapp3.1\ToDoList.AssemblyInfoInputs.cache
+C:\GitHub\ToDo-List-CSharp\ToDoList\ToDoList\obj\Debug\netcoreapp3.1\ToDoList.AssemblyInfo.cs
+C:\GitHub\ToDo-List-CSharp\ToDoList\ToDoList\obj\Debug\netcoreapp3.1\ToDoList.csproj.CoreCompileInputs.cache
+C:\GitHub\ToDo-List-CSharp\ToDoList\ToDoList\obj\Debug\netcoreapp3.1\ToDoList.dll
+C:\GitHub\ToDo-List-CSharp\ToDoList\ToDoList\obj\Debug\netcoreapp3.1\ToDoList.pdb
+C:\GitHub\ToDo-List-CSharp\ToDoList\ToDoList\obj\Debug\netcoreapp3.1\ToDoList.genruntimeconfig.cache
