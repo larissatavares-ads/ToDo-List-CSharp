@@ -27,6 +27,7 @@ namespace ToDoList
             internal void MetodoGeral()
             {
                 Match resultado = Regex.Match(criarLista, teste);
+
                 if (resultado.Success)
                 {
                     Console.WriteLine("Sua ToDo List foi criada com sucesso!");
@@ -36,6 +37,7 @@ namespace ToDoList
                 {
                     Console.WriteLine("Você deve inserir um código válido!");
                 }
+
                 while (resultado.Success)
                 {
                     string funcao = Console.ReadLine();
@@ -64,7 +66,7 @@ namespace ToDoList
                             {
                                 resposta = false;
                                 Console.WriteLine("Sua lista foi finalizada.");
-                                
+
                             }
                         }
                     }
